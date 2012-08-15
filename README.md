@@ -34,10 +34,10 @@ Step-by-step on how to deploy, configure and develop this app.
 
 2) Main.php Add your foursquare credentials and database info. 
 
-3) Main.php Add Google API Developer Key 
-<pre>
+3) Main.php Add Google API Developer Key: 
+<pre><code>
 <script type="text/javascript" src="http://maps.googleapis.com/maps/api/js?key=xxxxxAPI KEY HERExxxxx&sensor=false">
-</pre>
+</code></pre>
 
 4) Main.php Configure any style settings for the google map (lines 88-110).
 
