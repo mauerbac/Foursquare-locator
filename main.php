@@ -65,7 +65,9 @@ $link = mysql_connect("xxDB HOSTxxx", "xxDB USER NAMExxx", "xxxDB Passxxx");
 
 
 	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
-	<script type="text/javascript" src="http://maps.googleapis.com/maps/api/js?key=AIzaSyDtwRCkFydguPVyHnmX1YXiaP0bkQxdfZo&sensor=false">
+
+	<!--- Add Google Maps API Key below --> 
+	<script type="text/javascript" src="http://maps.googleapis.com/maps/api/js?key=xxxxxAPI KEY HERExxxxx&sensor=false">
     
     </script>
 	<script type="text/javascript">
