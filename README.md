@@ -5,8 +5,6 @@ This app uses [Foursquare](https://developer.foursquare.com/) to locate your use
 
 ## Usage 
 
-Company members call the conference line or call in via the web browser. 
-
 ![Example of it
 working](https://raw.github.com/mauerbac/Foursquare-locator/master/screenshot.png)
 
